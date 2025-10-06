@@ -42,3 +42,5 @@ After the contract is deployed, you can use the contract's methods like this:
 ```
 
 > Note: When redeploying an existing `Contract`, ensure that you initialize it with a unique salt to prevent deployment failures caused by a contract ID collision. To accomplish this, utilize the `with_salt` method to clone the existing `Contract` with a new salt.
+
+<!-- Auto-update: 2025-10-07T06:09:41.263916 -->
