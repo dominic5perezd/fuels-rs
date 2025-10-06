@@ -95,3 +95,5 @@ If you need to build the transaction without signatures, which is useful when es
 ```
 
 > **Note** In contrast to adding signers to a transaction builder, when signing a built transaction, you must ensure that the order of signatures matches the order of signed inputs. Multiple signed inputs with the same owner will have the same witness index.
+
+<!-- Auto-update: 2025-10-06T20:33:31.579615 -->
