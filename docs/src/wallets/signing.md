@@ -26,3 +26,5 @@ If you have a built transaction and want to add a signature, you can use the `si
 ```rust,ignore
 {{#include ../../../e2e/tests/contracts.rs:tx_sign_with}}
 ```
+
+<!-- Auto-update: 2025-10-10T12:57:01.980011 -->
